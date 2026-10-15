@@ -30,8 +30,7 @@ Consulta [TEAM.md](TEAM.md) para crear el repo de tu equipo y repartir los archi
 
 ## Preparar el entorno
 
-Requiere Python 3.11 a 3.13, Git y acceso a GitHub Copilot.
-Usa Python 3.12 durante el taller y ejecuta los comandos en Bash. En Windows, abre Git Bash.
+Requiere Python 3.12, Git y acceso a GitHub Copilot. Ejecuta los comandos en Bash; en Windows, abre Git Bash.
 
 ```bash
 python -m venv .venv
